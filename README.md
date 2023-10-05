@@ -14,9 +14,9 @@ https://archive.ics.uci.edu/dataset/555/apartment+for+rent+classified
 
 ## Tools
 
-Jupyter Notebook
-Python
-Tableau
+- Jupyter Notebook
+- Python
+- Tableau
 
 ## Tableau Presentation Link:
 
