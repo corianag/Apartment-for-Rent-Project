@@ -1,4 +1,4 @@
-# Apartment-for-Rent-Project 
+# Apartments-for-Rent-Project 
 
 ## Objective
 The Project’s Goal is to uncover more information about the renting patterns. 
